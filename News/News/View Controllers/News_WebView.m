@@ -50,10 +50,7 @@
     }
 }
 
-
-
 #pragma mark webview delegate
-
 
 - (void)webViewDidFinishLoad:(UIWebView *)theWebView {
 	[activityIndicator stopAnimating];

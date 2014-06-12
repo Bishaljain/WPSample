@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		EC3B75AC1949F0F3001B3A52 /* NewsObject.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3B75AB1949F0F3001B3A52 /* NewsObject.m */; };
-		EC3B75AE194A09CA001B3A52 /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = EC3B75AD194A09CA001B3A52 /* loading.png */; };
 		EC3B75D3194A155E001B3A52 /* MKAnnotationView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3B75B5194A155E001B3A52 /* MKAnnotationView+WebCache.m */; };
 		EC3B75D4194A155E001B3A52 /* NSData+ImageContentType.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3B75B7194A155E001B3A52 /* NSData+ImageContentType.m */; };
 		EC3B75D5194A155E001B3A52 /* SDImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3B75B9194A155E001B3A52 /* SDImageCache.m */; };
@@ -58,7 +57,6 @@
 /* Begin PBXFileReference section */
 		EC3B75AA1949F0F3001B3A52 /* NewsObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NewsObject.h; path = Objects/NewsObject.h; sourceTree = "<group>"; };
 		EC3B75AB1949F0F3001B3A52 /* NewsObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NewsObject.m; path = Objects/NewsObject.m; sourceTree = "<group>"; };
-		EC3B75AD194A09CA001B3A52 /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
 		EC3B75B4194A155E001B3A52 /* MKAnnotationView+WebCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MKAnnotationView+WebCache.h"; sourceTree = "<group>"; };
 		EC3B75B5194A155E001B3A52 /* MKAnnotationView+WebCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MKAnnotationView+WebCache.m"; sourceTree = "<group>"; };
 		EC3B75B6194A155E001B3A52 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+ImageContentType.h"; sourceTree = "<group>"; };
@@ -273,7 +271,6 @@
 		EC4E2ACD1949C3CD0057BDF4 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				EC3B75AD194A09CA001B3A52 /* loading.png */,
 				EC4E2ACE1949C3CD0057BDF4 /* 37x-Checkmark.png */,
 				EC4E2ACF1949C3CD0057BDF4 /* 37x-Checkmark@2x.png */,
 			);
@@ -367,7 +364,6 @@
 				EC4E2A901949992B0057BDF4 /* InfoPlist.strings in Resources */,
 				EC4E2AD01949C3CD0057BDF4 /* 37x-Checkmark.png in Resources */,
 				EC4E2AD11949C3CD0057BDF4 /* 37x-Checkmark@2x.png in Resources */,
-				EC3B75AE194A09CA001B3A52 /* loading.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
