@@ -261,9 +261,8 @@
 		EC4E2AC91949BA130057BDF4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				ECBFB81F194FCC6C009D810D /* ProgressHUD */,
 				EC3B75B3194A155E001B3A52 /* SDWebImage */,
-				EC4E2ACA1949BA200057BDF4 /* MBProgressHUD.h */,
-				EC4E2ACB1949BA200057BDF4 /* MBProgressHUD.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -276,6 +275,15 @@
 			);
 			name = Images;
 			path = News/Images;
+			sourceTree = "<group>";
+		};
+		ECBFB81F194FCC6C009D810D /* ProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				EC4E2ACA1949BA200057BDF4 /* MBProgressHUD.h */,
+				EC4E2ACB1949BA200057BDF4 /* MBProgressHUD.m */,
+			);
+			name = ProgressHUD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
