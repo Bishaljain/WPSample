@@ -6,9 +6,4 @@ WPSample App is designed for iOS 6 and above. It presents the UI in native iOS 7
 
 This App uses ARC for memory management and is designed using Storyboard for interface.
 
-It Took me around 6 hrs. to develop this app.
-
-Will try to accelerate my speed while creating next sample app.
-
-Happy Coding.
 
