@@ -10,29 +10,29 @@
 	<string>News</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>28D0FD0E-102D-4D25-96DB-64EB7B6716AA</key>
+		<key>5DAF575E0CEDDED53DA3B14082052FC95415452E</key>
 		<string>https://github.com/Bishaljain/WPSample.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>News/News.xcodeproj/project.xcworkspace</string>
+	<string>News/News.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>28D0FD0E-102D-4D25-96DB-64EB7B6716AA</key>
+		<key>5DAF575E0CEDDED53DA3B14082052FC95415452E</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Bishaljain/WPSample.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>28D0FD0E-102D-4D25-96DB-64EB7B6716AA</string>
+	<string>5DAF575E0CEDDED53DA3B14082052FC95415452E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>28D0FD0E-102D-4D25-96DB-64EB7B6716AA</string>
+			<string>5DAF575E0CEDDED53DA3B14082052FC95415452E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>WPSample</string>
 		</dict>
